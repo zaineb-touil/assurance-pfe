@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "585908465035",
+    "project_id": "flutterassurance-pfe",
+    "storage_bucket": "flutterassurance-pfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585908465035:android:44b9dc0698d1e5c7ae538e",
+        "android_client_info": {
+          "package_name": "com.insurancepfe.insurance_pfe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585908465035-u7fi9ngm357h7kp6jh7q15nk7egfqjig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_O16-fLjAbuEdVT3aza2JPSYAHdhKj_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585908465035-u7fi9ngm357h7kp6jh7q15nk7egfqjig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "585908465035-foh4ulcq2qjvqe57o7cmtb4r5qe217qg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.insurancepfe.insurancePfe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
